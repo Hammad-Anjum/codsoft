@@ -7,7 +7,7 @@
 
 ### Project Details
 - **Objective**: To classify iris flowers into species based on various features.
-- **Model Used**: RandomForestClassifier from Scikit-learn.
+- **Model Used**: RandomForestClassifier from Scikit-learn along with GridSearchCV for estimating the best model.
 - **Accuracy Achieved**: > 90%.
 
 ### Key Features
