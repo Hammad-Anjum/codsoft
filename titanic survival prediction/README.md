@@ -7,7 +7,7 @@
 
 ### Project Details
 - **Objective**: Predict survival probability of passengers aboard the Titanic.
-- **Model Used**: Logistic Regression from Scikit-learn.
+- **Model Used**: Logistic Regression from Scikit-learn along with GridSearchCV for the best model.
 - **Accuracy Achieved**: >70%.
 
 ### Key Features
