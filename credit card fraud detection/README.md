@@ -7,11 +7,10 @@
 
 ### Project Details
 - **Objective**: Detect fraudulent credit card transactions using machine learning techniques.
-- **Model Used**: Logistic Regression from Scikit-learn.
+- **Model Used**: Logistic Regression from Scikit-learn along with GridSearchCV.
 - **Accuracy Achieved**: >90%.
 
 ### Key Features
-- Conducted data preprocessing and handled class imbalance for fraud detection.
 - Utilized logistic regression to predict fraudulent transactions based on transaction features.
 - Focused on minimizing false positives and ensuring model interpretability.
 
