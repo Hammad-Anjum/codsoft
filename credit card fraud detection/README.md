@@ -14,3 +14,6 @@
 - Conducted data preprocessing and handled class imbalance for fraud detection.
 - Utilized logistic regression to predict fraudulent transactions based on transaction features.
 - Focused on minimizing false positives and ensuring model interpretability.
+
+link of the dataset (as dataset was too big to upload)
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
